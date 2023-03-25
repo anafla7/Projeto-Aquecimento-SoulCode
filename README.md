@@ -12,3 +12,5 @@ Os dados foram extraidos, tratados com Pandas e Pyspark, agregados em único dat
 Os arquivos originais e tratados foram disponibilidados em coleçõe distintas no MongoDB Atlas e em bucket do Cloud Storage.
 
 O dataset tratado também foi disponibilidado em um MySQL.
+
+![workflow (2)](https://user-images.githubusercontent.com/122061827/227691176-8ad1fed9-4826-4e35-9929-22e5eadbb535.png)
